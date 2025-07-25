@@ -9,7 +9,6 @@
 Strategic and scalable — I build test suites that don’t just catch bugs, they anticipate edge cases. I prioritize reusable logic, dynamic data handling, and robust file validation across environments.
 
 ## 🚀 Current Focus
-- 🔎 Normalizing dynamic file downloads for reliable automation
 - 🛠️ Expanding Playwright and API test coverage
 - ⚙️ Modular utilities for error handling and data-driven tests
 
