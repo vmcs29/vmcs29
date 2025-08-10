@@ -12,8 +12,7 @@
 ## 📈 Performance Testing Stack
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![Artillery](https://img.shields.io/badge/Artillery-Enabled-brightgreen?style=for-the-badge&logo=data:image/svg+xml;base64,)
-
+![Performance Testing](https://img.shields.io/badge/Performance%20Testing-Artillery-blue?style=for-the-badge)
 
 ## 🧠 How I Approach QA
 Strategic and scalable — I build test suites that don’t just catch bugs, they anticipate edge cases. I prioritize reusable logic, dynamic data handling, and robust file validation across environments.
