@@ -1,4 +1,5 @@
 # 👨‍🔬 Quality Assurance – Victor
+I'm a QA Automation Engineer with over 10 years of experience designing, building, and refining test automation frameworks across a wide range of tools and technologies. While I’ve worked extensively with Selenium, Cucumber, Postman, among some other tools, my recent focus has been mastering Playwright + TypeScript — crafting modular, scalable test suites that bridge UI, API, and performance testing.
 
 ## 🚀 Technologies I Use
 
