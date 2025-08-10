@@ -8,6 +8,8 @@ Tools I use to automate browser interactions, validate UI flows, and ensure visu
 [![Playwright](https://img.shields.io/badge/Playwright-EA580C?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![SpecFlow](https://img.shields.io/badge/SpecFlow-FF6F00?style=for-the-badge&logo=specflow&logoColor=white)](https://specflow.org/)
+[![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)](https://cucumber.io/)
+[![Robot Framework](https://img.shields.io/badge/Robot%20Framework-00BFFF?style=for-the-badge&logo=robotframework&logoColor=white)](https://robotframework.org/)
 
 
 ### 🔌 API & Performance Testing  
@@ -47,4 +49,4 @@ Strategic and scalable — I build test suites that don’t just catch bugs, the
 - Fostering continuous improvement in process and tools
 
 ## 🧭 My QA Philosophy
-_"Precision over perfection. Coverage that inspires confidence, not complacency."_
+_"Quality starts before the first test runs. I advocate for early collaboration, API-first validation, and performance awareness from day one."_
