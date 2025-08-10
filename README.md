@@ -9,7 +9,6 @@ Tools I use to automate browser interactions, validate UI flows, and ensure visu
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![SpecFlow](https://img.shields.io/badge/SpecFlow-FF6F00?style=for-the-badge&logo=specflow&logoColor=white)](https://specflow.org/)
 
---
 
 ### 🔌 API & Performance Testing  
 Tools I use to validate RESTful and SOAP APIs, simulate load, and ensure backend reliability under real-world conditions.
@@ -20,7 +19,6 @@ Tools I use to validate RESTful and SOAP APIs, simulate load, and ensure backend
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=for-the-badge&logoColor=white)](https://www.soapui.org/)
 
---
 
 ### 🧠 Scripting & Development Languages  
 Languages I use to build test frameworks, write automation scripts, and integrate testing into scalable development workflows.
@@ -30,7 +28,6 @@ Languages I use to build test frameworks, write automation scripts, and integrat
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
---
 
 ### ⚙️ CI/CD Tools  
 Platforms I use to automate test execution, integrate with pipelines, and ensure continuous delivery of high-quality software.
