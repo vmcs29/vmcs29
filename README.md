@@ -16,12 +16,11 @@ Tools I use to automate browser interactions, validate UI flows, and ensure visu
 ### 🔌 API & Performance Testing  
 Tools I use to validate RESTful and SOAP APIs, simulate load, and ensure backend reliability under real-world conditions.
 
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=for-the-badge&logoColor=white)](https://www.soapui.org/)
 [![Artillery](https://img.shields.io/badge/Artillery-EF3E36?style=for-the-badge&logoColor=white)](https://artillery.io)
 [![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)](https://k6.io/)
 [![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)](https://jmeter.apache.org/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=for-the-badge&logoColor=white)](https://www.soapui.org/)
-
 
 ### 🧠 Scripting & Development Languages  
 Languages I use to build test frameworks, write automation scripts, and integrate testing into scalable development workflows.
